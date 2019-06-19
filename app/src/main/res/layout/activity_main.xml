@@ -11,6 +11,11 @@
             android:id="@+id/name_text"
             android:gravity="center"
             style="@style/NameStyle"/>
-            <!--app:fontFamily="@font/roboto" -->
+    <ImageView
+            android:id="@+id/star_image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@android:drawable/btn_star_big_on"
+            android:contentDescription="@string/yellow_star" android:layout_marginTop="@dimen/layout_margin"/>
 
 </LinearLayout>
