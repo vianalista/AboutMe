@@ -2,4 +2,6 @@
     <string name="app_name">About Me</string>
     <string name="name">Vinícius Antunes</string>
     <string name="yellow_star">Yellow star</string>
+    <string name="bio"> My name is Vinícius. +10 years of experience in: Linux embedded systems, C, C++, Java, Python, Android, Kotlin.
+    </string>
 </resources>
